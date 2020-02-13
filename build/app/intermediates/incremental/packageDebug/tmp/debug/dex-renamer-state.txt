@@ -1,0 +1,4 @@
+#Thu Feb 13 22:22:46 AZT 2020
+base.0=/home/user/FlutterProj/UDEMY/second_v2/trs/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
